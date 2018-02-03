@@ -1,7 +1,7 @@
 {
   "name": "btq-insight-api",
   "description": "A BitcoinQuark blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "repository": "git://github.com/bitcoinquark/insight-api.git",
   "contributors": [
     {
@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "btq-bitcore-lib": "^0.14.2",
-    "btq-bitcore-message": "^1.0.6",
+    "btq-bitcore-lib": "^0.14.3",
+    "btq-bitcore-message": "^1.0.7",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
